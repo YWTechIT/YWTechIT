@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 
 [![YWTechIT's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YWTechIT&theme=algolia&layout=compact&custom_title=YWTechIT's%20WakaTime)](https://github.com/anuraghazra/github-readme-stats)
 
+E-mail: ywtechit@gmail.com
+
+BOJ: <a href='https://www.acmicpc.net/user/abcd8637'>abcd8637</a>
+
+Tistory: <a href='https://ywtechit.tistory.com/'>영우의 개발블로그</a>
 
 
 
