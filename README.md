@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 📍 I want to be `front-end engineer`
 - 📌 My motto is ` If you go alone, you go fast, if you go together, you go far. `
-- ✍🏽 I’m currently learning `Typescript`, `Javascript`, `CI/CD`, `Docker` and `Algorithm with JS`
+- ✍🏽 I’m currently learning `Next.js`, `Typescript`, `Javascript`, `CI/CD`, `Docker` and `Algorithm with JS`
 
 <!--
 **YWTechIT/YWTechIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
