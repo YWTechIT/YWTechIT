@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 ### 📍 My stats
 
-[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=ywtechit)](https://github.com/MoonJuhan/tistory-readme-stats)
+[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=ywtechit)](https://ywtechit.tistory.com/)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abcd8637)](https://solved.ac/abcd8637)
 
