@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 [![YWTechIT's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YWTechIT&theme=algolia&layout=compact&custom_title=YWTechIT's%20WakaTime)](https://github.com/anuraghazra/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/a2df3af0-1f37-43d4-ad8a-f1783f6c19d8.svg)](https://wakatime.com/@a2df3af0-1f37-43d4-ad8a-f1783f6c19d8)
+
 E-mail: ywtechit@gmail.com
 
 BOJ: <a href='https://www.acmicpc.net/user/abcd8637'>abcd8637</a>
