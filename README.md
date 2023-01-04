@@ -1,9 +1,9 @@
 ### 📍 Hi there 👋
 - 🙋🏾‍♂️ front-end engineer
 - 💬 My motto is `A developer who wants to work with me.`
-- 🖌 [<img align='center' src="https://github-readme-tistory-card.vercel.app/api/badge?name=ywtechit&theme=blue" >]([http://learnyouahaskell.com/functors-applicative-functors-and-monoids](https://ywtechit.tistory.com/))
-- 👨🏾‍💻 [<img align='center' src="http://mazassumnida.wtf/api/mini/generate_badge?boj=abcd8637" >](https://www.acmicpc.net/user/abcd8637)
-- 👨🏾‍💻 [<img align='center' src="https://wakatime.com/badge/user/a2df3af0-1f37-43d4-ad8a-f1783f6c19d8.svg" >](https://wakatime.com/@YWTechIT)
+- 📕 [<img align='center' src="https://github-readme-tistory-card.vercel.app/api/badge?name=ywtechit&theme=blue" >]([http://learnyouahaskell.com/functors-applicative-functors-and-monoids](https://ywtechit.tistory.com/))
+- 📙 [<img align='center' src="http://mazassumnida.wtf/api/mini/generate_badge?boj=abcd8637" >](https://www.acmicpc.net/user/abcd8637)
+- 📗 [<img align='center' src="https://wakatime.com/badge/user/a2df3af0-1f37-43d4-ad8a-f1783f6c19d8.svg" >](https://wakatime.com/@YWTechIT)
 
 <!--
 **YWTechIT/YWTechIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
